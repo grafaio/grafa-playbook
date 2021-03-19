@@ -1,12 +1,12 @@
 # The Grafa Team Playbook
 
-This repo contains the Grafa Team Playbook, a detail of how we design, build, and maintain content, data, information, and software at Grafa. It is a collection we have gathered and validated as a team, and have chosen to apply to our day-to-day working practices. We consider best-practices to be those that are emerging behaviours within teams who feel valued, supported, and **most of all happy** at work, and who consistently collaborate to make things better for customers, teammates, partners, and other stakeholders alike.
+This repo contains the Grafa Team Playbook; a detail of how we design, build, and maintain content, data, information, and software at Grafa. It is a collection of practices, processes, and information we have gathered and validated as a team, and have chosen to apply in our day-to-day work. We consider best-practices to be those that emerge within teams who feel valued, supported, and **most of all happy**, and who consistently collaborate to make things better for customers, teammates, partners, and other stakeholders alike.
 
 This is a living, evolving document, created to record the things we have learned and have adopted through consensus. If a team decision has been made that affects the way we work, it will be recorded and mainted here, within a public GitHub repository to provide maximum visibility and collaboration.
 
 ## Writing good documentation
 
-In order to ensure this documentation is highly consumable, we adopt Daniele Procida's Documentation System. This provides a simple set of proven principles that govern the creation and maintenance of the four key types of documentation; _tutorials, how-to guides, technical reference and explanation_.
+In order to ensure this documentation is highly consumable, we adopt [Daniele Procida's Documentation System][a1]. This provides a simple set of proven principles that govern the creation and maintenance of the four key types of documentation; _tutorials, how-to guides, technical reference and explanation_.
 
 - [The Documentation System][a1]
 
